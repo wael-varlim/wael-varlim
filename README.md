@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mohamed Wael Al-Abdurrahim 👋
 
-<!--
-**wael-varlim/wael-varlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Laravel Backend Developer** · Computer Engineering graduate (2026) · Syria
 
-Here are some ideas to get you started:
+I build REST APIs, design databases, and structure backend code in clean layers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I work on
+- **ResQ**: an emergency incident reporting platform (my graduation project) where civilians report incidents and the system routes them to the right authority automatically. I built the Laravel backend, architecture, and database. [View repo](https://github.com/wael-varlim/Integrated-Emergency-and-Disaster-System)
+
+### 🛠️ Skills
+- **Backend:** Laravel · PHP · REST APIs · MVC · Service layer
+- **Database:** Schema design · Indexing · Query optimization
+- **Integrations:** AI agents · Geographic/Maps APIs
+
+### 📫 Reach me
+- [LinkedIn](https://www.linkedin.com/in/wael-al-abdurrahim-6b0720390?utm_source=share_via&utm_content=profile&utm_medium=member_android) · I post about backend and database design
+- Email: m.waelll10@gmail.com
+
+*Open to junior Laravel / backend positions.*
